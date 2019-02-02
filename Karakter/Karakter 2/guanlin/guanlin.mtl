@@ -1,0 +1,74 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.02.2019 23:02:13
+
+newmtl Material__51
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\karakter game dasar\pencuri\Model_D0306053\38f87860.dds
+	map_Kd E:\karakter game dasar\pencuri\Model_D0306053\38f87860.dds
+	map_d E:\karakter game dasar\pencuri\Model_D0306053\38f87860.dds
+
+newmtl Material__52
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\karakter game dasar\pencuri\Model_D0306053\38f85920.dds
+	map_Kd E:\karakter game dasar\pencuri\Model_D0306053\38f85920.dds
+	map_d E:\karakter game dasar\pencuri\Model_D0306053\38f85920.dds
+
+newmtl Material__58
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\karakter game dasar\pencuri\Model_D0306053\38f87d00.dds
+	map_Kd E:\karakter game dasar\pencuri\Model_D0306053\38f87d00.dds
+
+newmtl Material__59
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\karakter game dasar\pencuri\Model_D0306053\38f87620.dds
+	map_Kd E:\karakter game dasar\pencuri\Model_D0306053\38f87620.dds
+
+newmtl Material__60
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\karakter game dasar\pencuri\Model_D0306053\38f87ac0.dds
+	map_Kd E:\karakter game dasar\pencuri\Model_D0306053\38f87ac0.dds
